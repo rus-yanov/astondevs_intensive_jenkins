@@ -26,7 +26,7 @@ public class Servlet extends HttpServlet {
                           crossorigin=\"anonymous\">
                 </head>
                 <body>
-                        <h3>New page</h3>
+                        <h3>Old page</h3>
                 </body>
             </html>
             """;
